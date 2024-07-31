@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} p-8 h-[100vh] flex flex-col `} >
-        <div>
+        <div className=" bg-black  ">
           <Header></Header>
         </div>
         <div className="pt-10">
