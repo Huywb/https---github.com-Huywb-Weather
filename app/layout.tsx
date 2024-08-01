@@ -24,9 +24,8 @@ export default function RootLayout({
         </div>
         <div className="pt-10">
         {children}
-        </div>
+        </div>  
         <div>
-          <Footer></Footer>
         </div>
       </body>
     </html>

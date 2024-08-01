@@ -54,28 +54,28 @@ const Content = () => {
         </div>
       </div>
       <div className="mt-6 flex justify-between gap-6 w-[100%] ">
-        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl lg:flex-col">
+        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl ">
           <div className="flex justify-between flex-col gap-4 items-center">
             <p className="text-lg opacity-70 ">Humidity</p>
             <CiCloudMoon size='50px'></CiCloudMoon>
           </div>
           <h1 className="text-3xl flex items-end mb-1 opacity-80">70%</h1>  
         </div>
-        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl lg:flex-col">
+        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl ">
           <div className="flex justify-between flex-col gap-4 items-center">
             <p className="text-lg opacity-70 ">Humidity</p>
             <CiCloudMoon size='50px'></CiCloudMoon>
           </div>
           <h1 className="text-3xl flex items-end mb-1 opacity-80">70%</h1>  
         </div>
-        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl lg:flex-col">
+        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl ">
           <div className="flex justify-between flex-col gap-4 items-center">
             <p className="text-lg opacity-70 ">Humidity</p>
             <CiCloudMoon size='50px'></CiCloudMoon>
           </div>
           <h1 className="text-3xl flex items-end mb-1 opacity-80">70%</h1>  
         </div>
-        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl lg:flex-col">
+        <div className="bg-[#171717] p-4 flex gap-10 w-[25%] rounded-xl ">
           <div className="flex justify-between flex-col gap-4 items-center">
             <p className="text-lg opacity-70 ">Humidity</p>
             <CiCloudMoon size='50px'></CiCloudMoon>
